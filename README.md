@@ -1,4 +1,5 @@
-# Glozzom
+# Glozzom 
+Bootstrap 4 webdesign
 MIT License
 
 Copyright (c) [year] [fullname]
